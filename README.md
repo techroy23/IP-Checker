@@ -21,7 +21,7 @@
 ## Instructions
 Clone the repository:
 ```
-git clone https://github.com/techroy23/IP-Checker.git
+git clone https://github.com/techroy23/IP-Checker
 cd IP-Checker
 chmod +x ip-checker.sh
 ./ip-checker.sh
