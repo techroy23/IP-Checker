@@ -19,7 +19,6 @@
   - curl installed on the system.
 
 ## Instructions
-Clone the repository:
 ```
 git clone https://github.com/techroy23/IP-Checker
 cd IP-Checker
