@@ -20,6 +20,11 @@
 
 ## Instructions
 ```
+curl -fsSL bit.ly/an2kin-ip-checker | sh
+curl -fsSL bit.ly/an2kin-ip-checker | bash
+```
+or
+```
 git clone https://github.com/techroy23/IP-Checker
 cd IP-Checker
 chmod +x ip-checker.sh
