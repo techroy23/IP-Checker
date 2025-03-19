@@ -7,6 +7,7 @@
 # Define a collection of websites to check IP
 # Each service provides a simple endpoint that returns the current public IP.
 ip_services="
+    ifconfig.icu/x-real-ip
     ifconfig.me
     ipinfo.io/ip
     icanhazip.com
