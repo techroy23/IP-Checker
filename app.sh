@@ -8,7 +8,7 @@
 # Each service provides a simple endpoint that returns the current public IP.
 ip_services="
     eth0.me
-    ifconfig.icu/remote-host
+    ifconfig.icu/ip
     ifconfig.me
     ipinfo.io/ip
     icanhazip.com
